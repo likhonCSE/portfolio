@@ -22,6 +22,9 @@ h1{
 h1 span{
     color: orange;
 }
+h3 span{
+    color: orange;
+}
 .half-width img{
     width: 100%;
 }
